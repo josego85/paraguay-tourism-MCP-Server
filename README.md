@@ -2,9 +2,9 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/paraguay-tourism-MCP-Server)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![MCP](https://img.shields.io/badge/MCP-Protocol-orange.svg)](https://modelcontextprotocol.io/)
 [![FastMCP](https://img.shields.io/badge/FastMCP-2.13.0-purple.svg)](https://github.com/jlowin/fastmcp)
+[![MCP](https://img.shields.io/badge/MCP-Protocol-orange.svg)](https://modelcontextprotocol.io/)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 > A Model Context Protocol (MCP) server providing access to Paraguay's tourist places with advanced location-based search capabilities.
 
@@ -67,7 +67,7 @@ See [API Reference](docs/API.md) for complete documentation.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Licensed under GNU General Public License v3.0 - see [LICENSE](LICENSE) file.
 
 ## 🙏 Acknowledgments
 
