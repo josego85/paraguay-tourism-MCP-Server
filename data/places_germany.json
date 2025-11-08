@@ -1,0 +1,123 @@
+[
+  {
+    "id": "frankfurt-romer",
+    "name": "Römer (Ayuntamiento de Frankfurt)",
+    "description": "Edificio histórico del ayuntamiento de Frankfurt, símbolo de la ciudad desde el siglo XV. Ubicado en la plaza principal del casco antiguo.",
+    "category": "Arquitectura",
+    "lat": 50.1106,
+    "lng": 8.6821,
+    "city": "Frankfurt am Main",
+    "region": "Hesse"
+  },
+  {
+    "id": "frankfurt-catedral",
+    "name": "Catedral de San Bartolomé",
+    "description": "Catedral gótica del siglo XIV, lugar de coronación de los emperadores del Sacro Imperio Romano Germánico.",
+    "category": "Arquitectura",
+    "lat": 50.1109,
+    "lng": 8.6850,
+    "city": "Frankfurt am Main",
+    "region": "Hesse"
+  },
+  {
+    "id": "frankfurt-museumsufer",
+    "name": "Museumsufer (Orilla de los Museos)",
+    "description": "Concentración de museos a lo largo del río Main, incluyendo el Museo Städel, uno de los más importantes de Alemania.",
+    "category": "Cultura",
+    "lat": 50.1070,
+    "lng": 8.6740,
+    "city": "Frankfurt am Main",
+    "region": "Hesse"
+  },
+  {
+    "id": "mainz-catedral",
+    "name": "Catedral de Mainz",
+    "description": "Catedral románica del siglo X, una de las tres catedrales imperiales del Rin. Ubicada en la ciudad natal de Gutenberg.",
+    "category": "Arquitectura",
+    "lat": 50.0014,
+    "lng": 8.2744,
+    "city": "Mainz",
+    "region": "Rheinland-Pfalz"
+  },
+  {
+    "id": "wiesbaden-kurhaus",
+    "name": "Kurhaus de Wiesbaden",
+    "description": "Elegante edificio termal y casino del siglo XIX, símbolo de la ciudad balneario de Wiesbaden.",
+    "category": "Arquitectura",
+    "lat": 50.0825,
+    "lng": 8.2414,
+    "city": "Wiesbaden",
+    "region": "Hesse"
+  },
+  {
+    "id": "heidelberg-castillo",
+    "name": "Castillo de Heidelberg",
+    "description": "Ruinas románticas del castillo renacentista, uno de los castillos más famosos de Alemania con vistas al río Neckar.",
+    "category": "Historia",
+    "lat": 49.4106,
+    "lng": 8.7153,
+    "city": "Heidelberg",
+    "region": "Baden-Württemberg"
+  },
+  {
+    "id": "darmstadt-mathildenhöhe",
+    "name": "Mathildenhöhe Darmstadt",
+    "description": "Colonia de artistas modernistas del siglo XX, Patrimonio de la Humanidad UNESCO. Torre de bodas y capilla rusa.",
+    "category": "Arquitectura",
+    "lat": 49.8756,
+    "lng": 8.6631,
+    "city": "Darmstadt",
+    "region": "Hesse"
+  },
+  {
+    "id": "worms-catedral",
+    "name": "Catedral de Worms",
+    "description": "Catedral románica del siglo XII, una de las tres catedrales imperiales del Rin junto con Mainz y Speyer.",
+    "category": "Arquitectura",
+    "lat": 49.6306,
+    "lng": 8.3603,
+    "city": "Worms",
+    "region": "Rheinland-Pfalz"
+  },
+  {
+    "id": "rudesheim-drosselgasse",
+    "name": "Drosselgasse de Rüdesheim",
+    "description": "Callejón medieval famoso por sus tabernas de vino, en el corazón del valle del Rin, Patrimonio de la Humanidad.",
+    "category": "Cultura",
+    "lat": 49.9786,
+    "lng": 7.9225,
+    "city": "Rüdesheim am Rhein",
+    "region": "Hesse"
+  },
+  {
+    "id": "frankfurt-palmengarten",
+    "name": "Palmengarten Frankfurt",
+    "description": "Jardín botánico con invernaderos tropicales, uno de los jardines más grandes de Alemania.",
+    "category": "Naturaleza",
+    "lat": 50.1236,
+    "lng": 8.6553,
+    "city": "Frankfurt am Main",
+    "region": "Hesse"
+  },
+  {
+    "id": "frankfurt-ig-farben",
+    "name": "Campus Westend (IG Farben)",
+    "description": "Edificio histórico de IG Farben, ahora campus de la Universidad Goethe. Arquitectura monumental de los años 30.",
+    "category": "Arquitectura",
+    "lat": 50.1250,
+    "lng": 8.6681,
+    "city": "Frankfurt am Main",
+    "region": "Hesse"
+  },
+  {
+    "id": "speyer-catedral",
+    "name": "Catedral Imperial de Speyer",
+    "description": "Catedral románica del siglo XI, la más grande de su época. Patrimonio de la Humanidad UNESCO.",
+    "category": "Arquitectura",
+    "lat": 49.3172,
+    "lng": 8.4425,
+    "city": "Speyer",
+    "region": "Rheinland-Pfalz"
+  }
+]
+

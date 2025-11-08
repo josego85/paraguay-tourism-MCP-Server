@@ -1,0 +1,82 @@
+[
+  {
+    "id": "palacio-lopez",
+    "name": "Palacio de los López",
+    "description": "Sede del gobierno paraguayo, un ícono neoclásico con jardines y vistas al río Paraguay.",
+    "category": "Arquitectura",
+    "lat": -25.2822,
+    "lng": -57.6352,
+    "city": "Asunción",
+    "region": "Capital"
+  },
+  {
+    "id": "trinidad-jesuitica",
+    "name": "Misión Jesuítica de La Santísima Trinidad de Paraná",
+    "description": "Ruinas jesuíticas del siglo XVIII, Patrimonio Mundial de la UNESCO.",
+    "category": "Historia",
+    "lat": -27.1667,
+    "lng": -55.6667,
+    "city": "Trinidad",
+    "region": "Itapúa"
+  },
+  {
+    "id": "itaipu",
+    "name": "Represa de Itaipú",
+    "description": "La mayor hidroeléctrica binacional del mundo, con tours y vistas al río Paraná.",
+    "category": "Ingeniería",
+    "lat": -25.4100,
+    "lng": -54.5833,
+    "city": "Hernandarias",
+    "region": "Alto Paraná"
+  },
+  {
+    "id": "ypacarai",
+    "name": "Lago Ypacaraí",
+    "description": "Lago icónico para relax, playas y paseos en bote. Inspiración de la guarania 'Recuerdos de Ypacaraí'.",
+    "category": "Naturaleza",
+    "lat": -25.3667,
+    "lng": -57.2833,
+    "city": "San Bernardino",
+    "region": "Cordillera"
+  },
+  {
+    "id": "encarnacion",
+    "name": "Encarnación",
+    "description": "Ciudad costera con playas fluviales, carnaval famoso y puente internacional.",
+    "category": "Ciudad",
+    "lat": -27.3306,
+    "lng": -55.8667,
+    "city": "Encarnación",
+    "region": "Itapúa"
+  },
+  {
+    "id": "saltos-monday",
+    "name": "Saltos del Monday",
+    "description": "Cascada de 40m en parque subtropical, ideal para senderismo y ecoturismo.",
+    "category": "Naturaleza",
+    "lat": -25.5613,
+    "lng": -54.6334,
+    "city": "Presidente Franco",
+    "region": "Alto Paraná"
+  },
+  {
+    "id": "cerro-cora",
+    "name": "Parque Nacional Cerro Corá",
+    "description": "Reserva natural con cerros, ríos y sitio histórico de la Guerra de la Triple Alianza.",
+    "category": "Naturaleza",
+    "lat": -22.6503,
+    "lng": -56.0139,
+    "city": "Pedro Juan Caballero",
+    "region": "Amambay"
+  },
+  {
+    "id": "catedral-asuncion",
+    "name": "Catedral Metropolitana de Asunción",
+    "description": "Templo colonial del siglo XVIII, centro religioso e histórico de la capital.",
+    "category": "Arquitectura",
+    "lat": -25.2850,
+    "lng": -57.6350,
+    "city": "Asunción",
+    "region": "Capital"
+  }
+]

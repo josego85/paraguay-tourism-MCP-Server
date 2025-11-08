@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "paraguay-tourism-mcp-server": {
+      "command": "/home/proyectosbeta/repositoriosGit/paraguay-tourism-MCP-Server/venv/bin/python",
+      "args": [
+        "/home/proyectosbeta/repositoriosGit/paraguay-tourism-MCP-Server/src/paraguay_tourism/server.py"
+      ]
+    }
+  }
+}
